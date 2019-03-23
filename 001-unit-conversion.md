@@ -19,8 +19,8 @@ free to come up with better messages for the user.
 
 ### References
 
-https://docs.python.org/3.5/library/functions.html#print
-https://docs.python.org/3/library/functions.html#input
+- https://docs.python.org/3.5/library/functions.html#print
+- https://docs.python.org/3/library/functions.html#input
 
 ## Making Sense of User Input
 
@@ -48,8 +48,8 @@ As always, feel free to have better messages.
 
 ### References
 
-https://docs.python.org/3/library/stdtypes.html#string-methods
-https://docs.python.org/3/library/functions.html#int
+- https://docs.python.org/3/library/stdtypes.html#string-methods
+- https://docs.python.org/3/library/functions.html#int
 
 ## Unit Conversion
 
@@ -64,5 +64,5 @@ temperature units and the adding for now) it by a factor.
 
 ### References
 
-https://docs.python.org/3/tutorial/datastructures.html#dictionaries
-https://en.wikipedia.org/wiki/Imperial_units#Units
+- https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+- https://en.wikipedia.org/wiki/Imperial_units#Units
